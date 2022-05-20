@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/19 20:45:38.521,=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 20:46:17.662,D:\MINHA VIDA\ProjetosDelphi\POOYOUTUBE\frmPoo.pas=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 20:46:17.662,D:\MINHA VIDA\ProjetosDelphi\POOYOUTUBE\frmPoo.dfm=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/19 20:46:36.494,D:\MINHA VIDA\ProjetosDelphi\POOYOUTUBE\ProjetoPoo.dproj=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/19 20:47:09.829,=D:\MINHA VIDA\ProjetosDelphi\POOYOUTUBE\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 20:57:48.442,D:\MINHA VIDA\ProjetosDelphi\POOYOUTUBE\Uusuario.pas=D:\MINHA VIDA\ProjetosDelphi\POOYOUTUBE\Unit1.pas</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="frmPoo.pas"/>
+    <File Path="frmPoo.dfm"/>
+    <File Path="Uusuario.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
